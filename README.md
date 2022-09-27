@@ -1,7 +1,7 @@
 # Build The Quickie Cheapie Tener
 ### *Perhaps the easiest way to get a 1 watt CW rig for the 10 meter band.*
 
-##### By Fabio Veronese
+#### By Fabio Veronese
 
 Who says that one-transistor transmitters necessarily have to be unreliable toys? The output power may not be so high—that's quite obvious—but, if you choose the right project, you can be sure of building a little, perfect QRP transmitter while spending less than five bucks and with minimum effort. 
 The 1 watt, 10 meter CW rig that's described here uses only 11 cheap, readily-available parts and their values aren't critical at all. This means that it will work as soon as its power supply is connected, assuming that all connections are right and are kept reasonably short and direct. 
