@@ -26,5 +26,7 @@ If an outdoor antenna resonating on 28 MHz is not available, temporarily connect
 
 This completes the tuneup of the transmitter. To send CW, connect a key in series with the positive or the negative rail of the power supply. It's advisable to put a 100,000 pF ceramic capacitor in parallel to the key in order to reduce manipulations or "clicks" due to current transients. If you have an FCC license, you are now ready for your first Quickie-QSO ( . . . or Quickie-DX, who knows!). Otherwise, just leave the dummy load lamp in place and use your brand new rig to take some exercise in Morse code. 
 
-### Sources: 
-Veronese, Fabio. “Build the Quickie Cheapie Tener.” *73 Magazine*, Oct. 1994, pp. 36–37. *Internet Archive*, ia902608.us.archive.org/2/items/73-magazine-1994-10/10_October_1994.pdf#page=38. Accessed 28 Sept. 2022.
+### Source: 
+Veronese, Fabio. “Build the Quickie Cheapie Tener.” *73 Magazine*, Oct. 1994, pp. 36–37. 
+*Internet Archive*, https://ia902608.us.archive.org/2/items/73-magazine-1994-10/10_October_1994.pdf#page=38. 
+Accessed 28 Sept. 2022.
