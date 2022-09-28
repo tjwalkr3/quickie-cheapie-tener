@@ -25,3 +25,8 @@ Now it's time to wind up the coils. You need a small Amidon toroid core, like FT
 If an outdoor antenna resonating on 28 MHz is not available, temporarily connect 5 to 10 feet of insulated copper wire to the output of the Quickie. You may also use a "dummy load" made by a small filament lamp—say, 6V, 100 mA. Its brightness will roughly tell how much RF energy is coming from the transmitter output. Put a communications receiver near the transmitter board and tune it to the XTAL frequency. Connect the Quickie to the power supply and slowly turn C4 with a plastic screwdriver (don't use metal tools!) until you can receive its carrier. Adjust C4 for maximum reading from the S-meter of your receiver, then set the exact transmission frequency by means of C1. 
 
 This completes the tuneup of the transmitter. To send CW, connect a key in series with the positive or the negative rail of the power supply. It's advisable to put a 100,000 pF ceramic capacitor in parallel to the key in order to reduce manipulations or "clicks" due to current transients. If you have an FCC license, you are now ready for your first Quickie-QSO ( . . . or Quickie-DX, who knows!). Otherwise, just leave the dummy load lamp in place and use your brand new rig to take some exercise in Morse code. 
+
+
+Veronese, Fabio. “Build the Quickie Cheapie Tener.” *73 Magazine*, Oct. 1994, pp. 36–37. *Internet 
+: Archive*, ia902608.us.archive.org/2/items/73-magazine-1994-
+: 10/10_October_1994.pdf#page=38. Accessed 28 Sept. 2022.
